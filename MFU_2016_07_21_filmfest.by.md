@@ -21,7 +21,6 @@ What to do
 
 1. make current result model working (films, jury members, partners) with fixtures
  * fill date for all cpm fests (2012 - 2016)
-2. 
 
 Deadline - 1st of august 
 
@@ -32,7 +31,7 @@ Deadline - 1st of august
  * ready pages for filmfest.by
   - menu update
   - proxy for nginx
- * 
+ * ??? think how to merge film translating for programs (old site) and for results page
  
 Deadline 1st of september
  
