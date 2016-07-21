@@ -20,9 +20,38 @@
 What to do
 
 1. make current result model working (films, jury members, partners) with fixtures
-2. fill date for all cpm fests (2012 - 2016)
-3. 
+ * fill date for all cpm fests (2012 - 2016)
+2. 
+
+Deadline - 1st of august 
 
 #### Milestone 2
 1. Finish results page 
  * actual short description, places, team member with fixtures
+ * styles and design
+ * ready pages for filmfest.by
+  - menu update
+  - proxy for nginx
+ * 
+ 
+Deadline 1st of september
+ 
+#### Milestone 3
+1. Editable menu
+2. Jury page
+3. Partners page
+4. switcher for timetime
+5. page with program list
+6. separate news page + blog
+7. migrate old news to new page type
+8. social buttons for particular news 
+
+Deadline - ???
+
+#### Backlog
+
+
+### Notes
+
+Separate card for improvements for old site 
+
