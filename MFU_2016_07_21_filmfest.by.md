@@ -51,7 +51,14 @@ Deadline - ???
 #### Backlog
 
 
+
 ### Notes
 
 Separate card for improvements for old site 
+
+it's possible to write docs on any lang: en, ru, by without limitation
+
+git messages in en
+
+We make pull requests and review them together. The firt who sees that pr is suitable for commit merges it to master
 
