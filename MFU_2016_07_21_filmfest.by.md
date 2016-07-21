@@ -21,6 +21,7 @@ What to do
 
 1. make current result model working (films, jury members, partners) with fixtures
  * fill date for all cpm fests (2012 - 2016)
+2. update django, wagtails, docker image to latest actual version 
 
 Deadline - 1st of august 
 
